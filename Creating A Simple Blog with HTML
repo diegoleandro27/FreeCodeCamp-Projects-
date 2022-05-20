@@ -1,0 +1,24 @@
+<title>Three things I've Learnt from StackUp</title>
+
+<h1 style= "background-color:#FF6A6A">Three things I've Learnt from StackUp.</h1>
+
+<img src="https://images.unsplash.com/photo-1648737155328-0c0012cf2f20?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870" alt="Image representing what I've learnt"> </img>
+
+<h3>Author:<strong> <a href = "https://mail.google.com/mail/u/0/#inbox" target="_blanc">diegoleandro20<a></strong> </h3>
+  
+  <h2>Summary</h2>
+  
+  <ol>
+    <li>I've learnt what is a element in html</li>
+    <li>I've learnt what is a CLI</li>
+    <li>I've learnt what is git</li>
+  </ol>
+  
+   <h2>What is a element in html?</h2>
+  <p>I've learnt that an <strong>element</strong> in html is a component that tells the browsers how to interpret part of the HTML documment.</p>
+  
+  <h2> What is a CLI </h2> 
+  <p>A <strong> CLI or command line interface</strong> is, as it is named, an users interface that allows you to control the files of your computer. </p>
+  
+  <h2 style="color: #FFB84B"> What is git? </h2>
+  <p>Git is a VCS, this meaning, <strong> Version Control System</strong> that allows you to have an almost total control of the previous versions of a document. This System is very popular and one of the most used VCs of the world. </p>
